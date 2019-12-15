@@ -1,0 +1,11 @@
+.ether-balance {
+  margin-left: 7%;
+}
+
+.wrap-ether {
+  display: flex;
+  width: 20%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+.token-balances {
+  margin-left: 7%;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.wrap-token {
+  display: flex;
+  width: 20%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
